@@ -1,5 +1,12 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on: Open-source backend tools, Spring/Kotlin projects, and practical developer utilities.<br><br>🤝 I’m looking for help with: Scaling backend architectures, performance tuning, and production deployment best practices.<br><br>🌱 I’m currently learning: Advanced JVM internals, OCP Java SE 21 topics, system design, and algorithmic problem solving.<br><br>💬 Ask me about: Kotlin & Spring Boot APIs, relational database design, or Telegram bot/Mini App workflows.<br><br>⚡ Fun fact: I switch between coding backend systems, solving algorithm puzzles, and playing a few rounds of chess or CS.
+### Hi there, I'm Islombek 👋
+
+**Java & Kotlin Backend Engineer** building microservices, REST APIs, and production systems with **Spring Boot** and **PostgreSQL**. Experienced with event-driven architectures (**Apache Kafka**, **RabbitMQ**), external payment & Telegram integrations, and end-to-end backend/deployment ownership for a live streaming platform.
+
+* 👯 **I’m looking to collaborate on:** Open-source backend tools, Spring Boot & Kotlin projects, and practical developer utilities.
+* 🤝 **I’m looking for help with:** Scaling microservices & high-throughput systems, query/performance tuning, and production deployment best practices[cite: 1].
+* 🌱 **I’m currently learning:** Advanced JVM internals, OCP Java SE 21 topics, system design, and algorithmic problem solving.
+* 💬 **Ask me about:** Kotlin & Spring Boot APIs, PostgreSQL schema/query optimization, microservices (**Feign**, **Eureka**, **API Gateway**, **Kafka**), or Telegram bot & auth integrations[cite: 1].
+* ⚡ **Fun fact:** I switch between coding backend systems, solving algorithm puzzles, and playing a few rounds of chess or CS.
 
 
 ## 🌐 Socials:
